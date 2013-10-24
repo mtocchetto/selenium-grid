@@ -21,6 +21,8 @@ Cada node se registra a um hub e informa a ele os browsers existentes no nodo.
 
 Para configurar o node altere o arquivo nodeconfig.json
 
+**Atenção: ** Caso necessário alterar no nodeconfig.json o valor da variável firefox_binary indicando o caminho do binário do firefox.
+
 -------------------------------------
 Como inicializar a estrutura do grid?
 -------------------------------------
