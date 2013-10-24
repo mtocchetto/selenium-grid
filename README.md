@@ -25,12 +25,12 @@ Para configurar o node altere o arquivo nodeconfig.json
 Como inicializar a estrutura do grid?
 -------------------------------------
 
-Iniciar o hub através do arquivo hub.bat ou utilizar o comando
+Iniciar o hub através do arquivo **hub.bat** ou utilizar o comando
 ```
   java -jar selenium-server-standalone-2.26.0.jar -role hub -hubConfig hubconfig.json
 ```
 
-Iniciar o node através do arquivo node.bat ou utilizar o comando
+Iniciar o node através do arquivo **node.bat** ou utilizar o comando
 ```
   java -jar selenium-server-standalone-2.26.0.jar -role node -nodeConfig nodeconfig.json
 ```
